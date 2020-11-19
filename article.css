@@ -1,0 +1,33 @@
+body{margin: 50px auto; padding:0 25px; max-width: 512px; font-family: monospace;}
+
+main{font-family:'Philosopher', sans-serif; margin-top:25px;}
+h1{font-family: 'Rakkas', serif; }
+h2{font-weight:bold;}
+h3{font-weight: bold;}
+h4{font-weight:normal; font-style:italic;}
+
+img{max-width:75vw; display:block; margin: 0px auto;}
+
+header{font-family:'Philosopher',monospace;}
+
+
+header{display:flex; align-items: center; justify-content: space-between;}
+
+header h1{display:block; font-family: 'Rakkas', serif; font-style:normal; font-size:32pt;}
+header h1 a{text-decoration: none; color:#A2A568; }
+header h2{display:block; font-size:16pt; font-weight: normal; font-style:italic; width:256px; text-align: right;}
+
+nav{align-content:center; display:flex; flex-direction:row; justify-content: space-between;}
+nav a{display: block; color:#B77729;}
+
+main h1{color:#A2A568; font-size:30pt;}
+
+h2 a{color:#A2A568;font-family:'Rakkas',serif; margin:10px 0;}
+
+article{margin:20px 0;}
+article h2{margin:5px 0;}
+article p{margin:5px 0;}
+
+dt{font-family:'Rakkas', serif;}
+dt a{color:#A2A568;}
+dd{font-style: italic;}
